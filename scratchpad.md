@@ -2,4 +2,4 @@
 ## This is h2
 <p>paragraph</p> <p>New paragraph</p>
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+<img src='https://octodex.github.com/images/yaktocat.png' height='100' alt='Yaktocat' />
